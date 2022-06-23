@@ -28,7 +28,6 @@ console.log(arr[2]);
 // let incr = 10,
 //     decr = 10;
 
-alert("ну и че");
 // console.log(++incr);
 // console.log(--decr);
 
